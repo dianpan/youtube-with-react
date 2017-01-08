@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Youtube clone made with React
 
 ###Getting Started###
 
